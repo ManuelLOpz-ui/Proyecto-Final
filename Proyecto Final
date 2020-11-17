@@ -93,3 +93,4 @@ int main(){
     menu(normalqueue,vipqueue);
      return 0;
 }
+
